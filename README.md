@@ -1,4 +1,8 @@
 ## Kahoot flooder
-A kahoot lobby flooder with Selenium Webdriver
+Floods Kahoot lobby with bots using the Kahoot API
 
-**WARNING: high RAM memory usage**
+```
+pip3 install kahootPY
+```
+---
+Too many bots may cause high memory usage
