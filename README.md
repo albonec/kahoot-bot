@@ -1,2 +1,4 @@
-# kahoot-flooder
-flood Kahoot lobbies with bots
+## Kahoot flooder
+A kahoot lobby flooder with Selenium Webdriver
+
+**WARNING: high RAM memory usage**
